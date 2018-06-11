@@ -11,7 +11,7 @@
 - ####  [WELTRADE](http://pro.weltrade.com/en/intro)   *一个卖男装也这么有格调*
 - ####  [Ascii Art Generator](https://asciiartgen.now.sh/?s=Bright&style=block)   *Ascii码艺术字生成器*
 - ####  [worrydream](http://worrydream.com/)   *个人搏客-排版很吊的那种*
-- ####  [腾讯新文创大会H5](http://up.qq.com/act/a20180418up/index.html) 
+- ####  [腾讯新文创大会H5](http://up.qq.com/act/a20180418up/index.html) ``` canvas ``` ``` video ```
 ----
 > 欢迎同道中人提 PR 或 Issues 中分享个人的酷前端
 
