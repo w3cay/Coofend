@@ -12,6 +12,8 @@
 - ####  [Ascii Art Generator](https://asciiartgen.now.sh/?s=Bright&style=block)   *Ascii码艺术字生成器*
 - ####  [worrydream](http://worrydream.com/)   *个人搏客-排版很吊的那种*
 - ####  [腾讯新文创大会H5](http://up.qq.com/act/a20180418up/index.html) ``` canvas ``` ``` video ```
+- ####  [Through The Dark](https://throughthedark.withgoogle.com/)   *一位歌手父亲写个白血病儿子的歌，用webGL展现*
+
 ----
 > 欢迎同道中人提 PR 或 Issues 中分享个人的酷前端
 
