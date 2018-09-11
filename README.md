@@ -18,6 +18,7 @@
 - ####  [Radio Garden](http://radio.garden/)  *(需翻墙)可以在谷歌地球上收听全世界的广播电台* 
 - ####  [Hyper](https://hyper.is/)  *基于前端桌面应用框架 electron 的命令行工具，跨平台*  ``` electron ``` 
 - ####  [giojs](http://giojs.org/html/playground.html)  *基于 Three.js 的地球 3D 数据可视化库*  ``` Three.js ``` 
+- ####  [自白](https://c.m.163.com/nc/qa/activity/dada_zibai/index.html)  *网易哒哒创意公益H5*  ``` Hilo.js ``` 
 
 ----
 > 欢迎同道中人提 PR 或 Issues 一起分享炫酷的前端事物
