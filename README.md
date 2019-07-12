@@ -19,6 +19,7 @@
 - ####  [Hyper](https://hyper.is/)  *基于前端桌面应用框架 electron 的命令行工具，跨平台*  ``` electron ``` 
 - ####  [giojs](http://giojs.org/html/playground.html)  *基于 Three.js 的地球 3D 数据可视化库*  ``` Three.js ``` 
 - ####  [自白](https://c.m.163.com/nc/qa/activity/dada_zibai/index.html)  *网易哒哒创意公益H5*  ``` Hilo.js ``` 
+- ####  [臆病な魔女](https://yui540.graphics/)  *一个具有非常酷炫动画的日本动漫网站*  
 
 ----
 > 欢迎同道中人提 PR 或 Issues 一起分享炫酷的前端事物
